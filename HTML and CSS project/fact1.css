@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>Facts</title>
+<link rel="stylesheet" href="web.css">
+</head>
+<body background="images/back6.jpg">
+<table height="150" width="100%" bgcolor="black" cellpadding="10" cellspacing="0" border="0"> 
+<tr align="center">
+<td><img src="images/logo.png" width="100%" height="150"></td>
+</tr>
+</table>
+<table height="10" width="80%" align="center" bgcolor="orange" cellpadding="0" cellspacing="0" border="0" margin="0">
+<tr>
+<th><font size="6"><a href="layout1.html">Home</a></font></th>
+<th><font size="6">About Us</font></t>
+<th><font size="6">Contact Us</font></th>
+<th><font size="6"><a href="gallery.html">Gallery</a></font></th>
+<th><font size="6"><a href="facts.html" id="active">Facts</a></font></th>
+<th><font size="6">Users</font</th>
+</tr>
+</table>
+
+<table width="80%" bgcolor="#99ffe6" align="center" border="0" cellpadding="0" cellspacing="15">
+<tr>
+<td><font face="microsoft sans serif" size="6">2. The average human body carries ten times more bacterial cells than human cells
+</font></td>
+</tr>
+<tr align="center">
+<td><img src="images/44.gif" width="780" height="450"><hr></td>
+</tr>
+</table>
+</body>
+</html>

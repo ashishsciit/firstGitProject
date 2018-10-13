@@ -1,0 +1,7 @@
+<html>
+<head>
+<title>Layout</title>
+</head>
+<body background="images/back2.jpg">
+</body>
+</html>
