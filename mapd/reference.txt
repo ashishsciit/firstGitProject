@@ -1,0 +1,4 @@
+https://www.tutorialrepublic.com/php-tutorial/php-mysql-login-system.php	php mysql login, register system with sessioning
+https://dzone.com/articles/change-user-password-in-mysql-57-with-plugin-auth       change root passsword in mysql
+http://www.rathishkumar.in/2017/04/error-1045-28000-access-denied-for-user-user-host-using-password-YES.html	access denied error solution 
+http://blog.chapagain.com.np/very-simple-add-edit-delete-view-in-php-mysql/	php mysql db create, view(read), update, delete, update wih sessioning - CRUD system

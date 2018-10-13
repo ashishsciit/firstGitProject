@@ -1,0 +1,11 @@
+.customDiv {
+    margin-bottom:3px;
+    background-color: aqua;
+    min-height: 300px;
+    font-size: large;
+    text-align: center;
+}
+
+.mybtn{
+    margin: 20px 20px 0px 20px    
+}

@@ -1,0 +1,45 @@
+http://blog.chapagain.com.np/very-simple-add-edit-delete-view-in-php-mysql/
+
+personal details
+empid --> auto generated
+*employee name
+*dob
+*gender
+*email
+*address line 1
+address line 2
+*city
+*state
+
+official deatails
+*joining date
+bank a/c no.
+department
+designation
+
+PF and ESI
+pf eligibility(y/n)
+	PF-UAN
+	PF Number
+	PF Enrollment Date
+	EPF Number
+	Relationship
+	entitles to eps(y/n)
+ESI eligibility(y/n)
+	ESI Number
+
+Leve details
+Leave Type
+sick leave(y/n)
+earned leave(y/n)
+ctc(annual)
+
+other info
+
+Salary Details
+CTC(annual)
+FBP
+Variable pay(goal bonus)
+
+
+

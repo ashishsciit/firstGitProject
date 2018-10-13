@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        
+        <title>javascript: calculate two numbers</title>
+        <meta charset="windows-1252">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        <script>
+            
+            function calc_sal()
+            {
+                var ctc = parseFloat(document.getElementById('ctc').value);
+                //var n2 = parseFloat(document.getElementById('n2').value);
+                
+                //var oper = document.getElementById('operators').value;
+                
+                document.getElementById('basic').value = ctc * 1/2;
+                
+                /*if(oper === '+')
+                {
+                    document.getElementById('result').value = n1+n2;
+                }
+                
+                if(oper === '-')
+                {
+                    document.getElementById('result').value = n1-n2;
+                }
+                
+                if(oper === '/')
+                {
+                    document.getElementById('result').value = n1/n2;
+                }
+                
+                if(oper === 'X')
+                {
+                    document.getElementById('result').value = n1*n2;
+                }*/
+            }
+            
+        </script>
+        
+    </head>
+    <body>
+        
+        <input type="text" id="ctc" name="ctc"/><br/><br/>
+
+                <input type="text" id="basic" name="basic"/>
+        <input type="button" onclick="calc_sal();" value="Calculate">
+        
+    </body>
+</html>
+
