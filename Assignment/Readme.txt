@@ -2,7 +2,7 @@ Note:
 
 1. To run this project on the server, the server must have php 5.6 or less version only.
 
-2. The project will not run on servers having php 5.7 or more, because in this we used php 5.6.
+2. The project will not run on servers having php 5.6 or more, because in this we used php 5.6.
 
 
 
